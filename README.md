@@ -13,6 +13,7 @@ Given time series unemployment data in the USA from 2005 to 2015, visualize the 
 6. Highlighting a certain class.
 7. How to add and show filters.
 8. Customize filter(single/multiple options, remove all functionality from customize).
+9. When to use extract/live data?
 
 Tableau sheet: https://public.tableau.com/app/profile/rucha.khopkar/viz/UnemploymentStatistics_17007803284670/Sheet1?publish=yes
 
